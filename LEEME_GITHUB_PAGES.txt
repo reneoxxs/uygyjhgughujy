@@ -1,0 +1,9 @@
+KEBABRICO — VERSIÓN PREPARADA PARA GITHUB PAGES
+
+1. Descomprime este ZIP.
+2. Sube el contenido descomprimido al repositorio, manteniendo index.html en la raíz y la carpeta assets junto a él.
+3. En GitHub, entra en Settings > Pages y configura la publicación desde la rama/carpeta que estés usando (normalmente main y / (root)).
+4. Espera a que termine el despliegue de Pages y recarga la web con Ctrl+F5.
+
+Las imágenes de pizzas/calzones usadas por el menú están guardadas localmente en assets/pizzas para evitar depender de servidores externos.
+No muevas index.html fuera de la raíz ni cambies la estructura de assets.
